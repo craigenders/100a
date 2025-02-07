@@ -1,276 +1,301 @@
-"age","condition","exercise","catastrophize","painseverity","depression","interference"
-24.0,"Control",6.5,18.0,7.5,20.0,35
-25.0,"Control",5.8,1.0,6.75,0.0,10
-58.0,"Control",11.333,6.0,6.75,19.0,35
-48.0,"Control",3.0,14.0,8.25,9.0,37
-50.0,"Control",4.0,20.0,8.0,20.0,36
-41.0,"Control",6.0,13.0,8.5,13.0,40
-49.0,"Control",2.868,3.0,5.75,1.0,19
-60.0,"Control",6.0,5.0,4.5,3.0,16
-45.0,"Control",6.25,7.0,7.0,0.0,36
-43.0,"Control",12.0,12.0,7.5,10.0,41
-40.0,"Control",10.333,15.0,6.5,14.0,29
-28.0,"Control",8.667,17.0,4.5,9.0,22
-53.0,"Control",7.0,3.0,5.75,5.0,23
-45.0,"Control",10.815,7.0,7.0,9.0,42
-51.0,"Control",16.0,7.0,7.25,5.0,31
-33.0,"Control",6.312,12.0,7.0,13.0,31
-53.0,"Control",7.475,13.0,7.5,21.0,37
-30.0,"Control",8.5,5.0,6.75,4.0,33
-59.0,"Control",9.0,0.0,6.0,9.0,30
-50.0,"Control",8.678,18.0,8.0,11.0,33
-34.0,"Control",6.333,14.0,6.25,11.0,30
-64.0,"Control",6.6,7.0,6.25,0.0,29
-47.0,"Control",3.0,4.0,7.75,4.0,31
-55.0,"Control",4.5,10.0,6.25,1.0,36
-44.0,"Control",10.667,15.0,6.25,16.0,27
-47.0,"Control",11.312,12.0,8.0,8.0,40
-42.0,"Control",16.0,5.0,7.0,2.0,31
-41.0,"Control",9.5,18.0,6.75,21.0,33
-38.0,"Control",5.4,3.0,5.25,1.0,19
-47.0,"Control",4.0,12.0,6.0,13.0,26
-47.0,"Control",9.0,10.0,6.5,15.0,22
-53.0,"Control",7.5,3.0,7.0,8.0,21
-21.0,"Control",3.75,0.0,5.0,1.0,8
-57.0,"Control",4.5,6.0,5.75,18.0,15
-41.0,"Control",5.0,5.0,6.0,2.0,15
-47.0,"Control",8.035,5.0,4.5,3.0,14
-44.0,"Control",3.75,10.0,5.75,9.0,21
-55.0,"Control",4.477,12.0,7.25,7.0,35
-34.0,"Control",8.333,10.0,7.5,12.0,38
-26.0,"Control",3.0,19.0,7.0,19.0,36
-38.0,"Control",6.25,2.0,7.25,1.0,34
-36.0,"Control",4.9399999999999995,6.0,7.5,2.0,25
-27.0,"Control",5.0,3.0,6.25,3.0,23
-21.0,"Control",3.0,20.0,6.75,11.0,31
-27.0,"Control",4.0,13.0,7.25,7.0,24
-54.0,"Control",6.4,1.0,5.75,1.0,20
-56.0,"Control",9.039,10.0,7.0,16.0,35
-54.0,"Control",8.0,5.0,7.25,5.0,31
-50.0,"Control",4.0,12.0,6.25,9.0,34
-59.0,"Control",5.2,8.0,5.5,2.0,22
-46.0,"Control",7.068,11.0,7.25,6.0,28
-40.0,"Control",5.4,9.0,5.5,2.0,11
-51.0,"Control",5.5,10.0,8.0,7.0,41
-45.0,"Control",5.225,0.0,3.75,1.0,17
-23.0,"Control",16.0,11.0,7.75,13.0,33
-40.0,"Control",8.0,5.0,6.5,7.0,36
-50.0,"Control",8.0,11.0,6.0,6.0,27
-60.0,"Control",11.0,13.0,8.0,17.0,33
-42.0,"Control",3.5,12.0,6.75,8.0,31
-62.0,"Control",10.748,3.0,5.5,3.0,19
-40.0,"Control",3.0,15.0,5.5,13.0,28
-19.0,"Control",3.8,3.0,7.5,1.0,25
-47.0,"Control",5.5,4.0,4.5,1.0,9
-41.0,"Control",10.746,2.0,7.25,1.0,30
-31.0,"Control",10.2,11.0,7.0,8.0,31
-53.0,"Control",6.0,4.0,6.75,0.0,35
-72.0,"Control",4.25,7.0,6.0,1.0,13
-29.0,"Control",5.167,3.0,6.0,5.0,25
-51.0,"Control",16.0,0.0,7.75,0.0,34
-51.0,"Control",4.0,6.0,6.75,7.0,29
-49.0,"Control",5.0,7.0,7.0,6.0,29
-47.0,"Control",12.222,13.0,7.25,16.0,34
-41.0,"Control",5.0,5.0,4.75,0.0,21
-58.0,"Control",6.286,2.0,5.0,1.0,15
-68.0,"Control",16.0,0.0,4.75,0.0,6
-27.0,"Control",11.0,8.0,7.5,2.0,25
-29.0,"Control",4.5,6.0,3.25,1.0,19
-30.0,"Control",5.0,9.0,7.0,1.0,28
-35.0,"Control",15.714,16.0,8.25,5.0,41
-51.0,"Control",7.25,15.0,7.5,14.0,39
-52.0,"Control",6.4,2.0,5.25,1.0,11
-36.0,"Control",4.5,9.0,7.75,2.0,36
-44.0,"Control",5.333,13.0,8.0,5.0,39
-62.0,"Control",5.0,10.0,6.5,3.0,36
-42.0,"Control",13.125,14.0,7.25,2.0,22
-49.0,"Control",6.0,11.0,8.25,10.0,37
-41.0,"Control",3.0,12.0,7.75,10.0,40
-54.0,"Control",6.0,12.0,8.25,7.0,42
-35.0,"Control",16.0,6.0,8.0,0.0,32
-38.0,"Control",10.0,14.0,7.5,21.0,39
-48.0,"Control",5.333,17.0,4.0,9.0,15
-26.0,"Control",7.857,13.0,6.25,8.0,21
-35.0,"Control",6.714,10.0,5.25,6.0,23
-36.0,"Control",4.0,2.0,6.0,4.0,10
-51.0,"Control",3.0,15.0,7.5,15.0,33
-42.0,"Control",8.416,19.0,7.0,8.0,33
-31.0,"Control",5.25,4.0,6.5,6.0,30
-42.0,"Control",10.0,3.0,5.75,12.0,18
-27.0,"Control",10.0,12.0,5.5,17.0,28
-49.0,"Control",11.781,5.0,5.5,2.0,23
-25.0,"Control",4.968999999999999,5.0,5.75,0.0,17
-42.0,"Control",7.333,4.0,5.25,15.0,28
-44.0,"Control",8.943999999999999,20.0,7.25,15.0,37
-33.0,"Control",11.086,5.0,4.5,0.0,11
-40.0,"Control",5.507,17.0,7.0,15.0,36
-54.0,"Control",2.492,1.0,7.0,5.0,23
-43.0,"Control",6.0,7.0,6.0,6.0,23
-55.0,"Control",11.0,2.0,6.5,10.0,41
-35.0,"Control",4.0,5.0,5.5,13.0,20
-26.0,"Control",5.5,15.0,8.25,15.0,38
-48.0,"Control",3.0,3.0,8.0,4.0,41
-41.0,"Control",14.333,6.0,6.25,1.0,21
-36.0,"Control",13.25,2.0,6.25,8.0,22
-71.0,"Control",7.0,7.0,6.75,4.0,27
-51.0,"Control",10.802,7.0,4.75,2.0,33
-57.0,"Control",6.0,4.0,6.25,4.0,23
-51.0,"Control",7.0,8.0,7.5,7.0,36
-35.0,"Control",7.667,0.0,4.5,0.0,7
-57.0,"Control",9.667,18.0,7.75,18.0,39
-36.0,"Control",10.0,7.0,6.0,16.0,33
-49.0,"Control",3.0,3.0,4.5,1.0,25
-41.0,"Control",8.8,16.0,8.0,1.0,36
-28.0,"Control",7.333,16.0,6.25,11.0,26
-33.0,"Control",7.5,9.0,5.25,9.0,32
-45.0,"Control",12.5,15.0,7.75,11.0,26
-52.0,"Control",6.47,20.0,8.5,21.0,40
-40.0,"Control",3.75,12.0,6.5,0.0,33
-62.0,"Control",8.25,3.0,5.75,4.0,27
-38.0,"Control",9.184000000000001,8.0,6.25,14.0,29
-45.0,"Control",11.0,12.0,6.75,8.0,38
-47.0,"Control",4.274,7.0,6.0,3.0,32
-43.0,"Control",8.583,8.0,5.25,10.0,16
-24.0,"Control",3.143,9.0,5.25,13.0,26
-25.0,"Control",3.0,12.0,6.75,4.0,36
-50.0,"Control",16.0,6.0,8.0,2.0,38
-45.0,"Control",8.6,6.0,5.5,4.0,13
-73.0,"Control",13.0,6.0,6.75,7.0,26
-69.0,"Control",10.0,4.0,5.75,4.0,14
-34.0,"Control",3.314,13.0,6.25,9.0,27
-42.0,"Control",2.213,8.0,7.0,3.0,32
-34.0,"Control",13.0,6.0,5.25,3.0,17
-65.0,"Control",10.082,15.0,7.25,8.0,35
-61.0,"Treatment",5.667,3.0,4.5,7.0,9
-36.0,"Treatment",3.5,20.0,7.0,21.0,32
-42.0,"Treatment",13.0,6.0,6.0,5.0,24
-58.0,"Treatment",7.333,7.0,6.75,5.0,28
-37.0,"Treatment",11.104,10.0,5.25,7.0,17
-34.0,"Treatment",6.812,3.0,6.0,3.0,36
-42.0,"Treatment",4.427,4.0,5.75,1.0,31
-48.0,"Treatment",8.0,1.0,5.0,2.0,16
-35.0,"Treatment",11.0,17.0,6.25,12.0,26
-48.0,"Treatment",9.373999999999999,16.0,6.25,14.0,28
-52.0,"Treatment",6.745,8.0,5.25,2.0,20
-52.0,"Treatment",13.602,10.0,4.75,6.0,14
-53.0,"Treatment",6.333,3.0,4.5,1.0,5
-37.0,"Treatment",6.5,7.0,5.75,7.0,20
-35.0,"Treatment",13.5,9.0,5.75,5.0,15
-57.0,"Treatment",16.0,13.0,6.0,13.0,23
-48.0,"Treatment",5.504,3.0,6.0,3.0,8
-25.0,"Treatment",3.5,4.0,4.25,0.0,12
-27.0,"Treatment",9.333,14.0,6.75,17.0,28
-43.0,"Treatment",8.075,16.0,7.25,18.0,26
-42.039,"Treatment",8.181000000000001,7.0,5.0,5.0,13
-55.0,"Treatment",7.0,17.0,6.0,14.0,34
-49.0,"Treatment",5.6,4.0,4.25,2.0,14
-41.0,"Treatment",5.809,5.0,6.5,9.0,28
-28.0,"Treatment",6.5,11.0,5.75,7.0,21
-41.0,"Treatment",4.5,13.0,6.25,12.0,30
-41.0,"Treatment",5.996,14.0,6.0,5.0,27
-40.0,"Treatment",9.0,12.0,6.5,11.0,23
-54.0,"Treatment",12.779,13.0,6.25,11.0,34
-33.0,"Treatment",9.993,20.0,6.25,16.0,25
-40.0,"Treatment",7.716,15.0,7.0,21.0,33
-44.0,"Treatment",4.0,7.0,5.25,0.0,18
-53.0,"Treatment",11.667,11.0,4.5,10.0,24
-50.0,"Treatment",5.748,14.0,5.75,10.0,23
-50.0,"Treatment",5.0,1.0,6.25,3.0,22
-45.0,"Treatment",6.857,12.0,6.25,6.0,12
-29.0,"Treatment",4.6,8.0,4.25,13.0,4
-49.0,"Treatment",3.0,14.0,6.0,20.0,33
-64.0,"Treatment",3.412,11.0,5.25,5.0,12
-45.0,"Treatment",7.286,3.0,3.25,4.0,2
-33.0,"Treatment",9.609,8.0,4.0,14.0,17
-47.0,"Treatment",7.5,3.0,4.0,2.0,8
-42.0,"Treatment",7.75,2.0,5.5,5.0,29
-53.0,"Treatment",6.667,4.0,5.75,4.0,19
-56.0,"Treatment",16.0,17.0,6.0,15.0,25
-78.0,"Treatment",8.836,0.0,4.25,0.0,17
-46.0,"Treatment",5.333,20.0,6.75,20.0,31
-33.0,"Treatment",4.5,13.0,3.5,7.0,1
-39.0,"Treatment",5.667,6.0,6.25,6.0,23
-56.0,"Treatment",10.0,16.0,6.75,19.0,32
-47.0,"Treatment",10.0,9.0,5.25,1.0,16
-53.0,"Treatment",3.5,10.0,5.75,18.0,22
-54.0,"Treatment",15.501,10.0,6.25,14.0,18
-30.0,"Treatment",5.5,14.0,6.5,14.0,30
-48.0,"Treatment",16.0,13.0,6.25,18.0,29
-45.0,"Treatment",12.34,15.0,5.5,10.0,24
-54.0,"Treatment",9.75,9.0,6.25,0.0,33
-56.0,"Treatment",4.0,14.0,5.0,15.0,22
-70.0,"Treatment",16.0,1.0,4.0,1.0,12
-32.0,"Treatment",4.0,9.0,5.0,8.0,26
-52.0,"Treatment",9.08,0.0,4.5,0.0,17
-68.0,"Treatment",9.5,2.0,5.75,2.0,27
-31.0,"Treatment",5.0,7.0,3.5,8.0,5
-46.0,"Treatment",16.0,10.0,7.0,1.0,30
-54.0,"Treatment",11.0,12.0,4.75,9.0,23
-48.0,"Treatment",9.5,13.0,7.0,10.0,35
-33.0,"Treatment",16.0,11.0,6.25,13.0,27
-55.0,"Treatment",10.0,14.0,5.0,6.0,15
-40.0,"Treatment",10.0,10.0,6.5,15.0,17
-53.0,"Treatment",12.0,10.0,4.0,8.0,16
-51.0,"Treatment",6.0,10.0,6.25,0.0,34
-43.0,"Treatment",4.0,15.0,5.25,20.0,1
-43.0,"Treatment",7.75,4.0,6.5,4.0,31
-52.0,"Treatment",10.0,5.0,4.5,9.0,22
-35.0,"Treatment",4.5,7.0,6.25,1.0,19
-43.0,"Treatment",13.667,0.0,5.5,0.0,20
-33.0,"Treatment",8.6,2.0,5.25,2.0,12
-32.0,"Treatment",5.0,2.0,3.75,2.0,7
-53.0,"Treatment",12.606,10.0,6.5,10.0,33
-40.0,"Treatment",9.333,12.0,5.5,7.0,11
-62.0,"Treatment",17.368000000000002,1.0,6.0,7.0,31
-52.0,"Treatment",6.75,10.0,6.0,9.0,21
-52.0,"Treatment",9.0,17.0,5.5,13.0,31
-50.0,"Treatment",16.0,19.0,5.25,21.0,14
-40.0,"Treatment",3.0,14.0,4.75,12.0,13
-55.0,"Treatment",16.0,7.0,7.5,7.0,30
-24.0,"Treatment",14.0,9.0,5.0,6.0,21
-46.0,"Treatment",11.0,12.0,3.75,6.0,26
-57.0,"Treatment",9.75,8.0,5.5,1.0,15
-37.0,"Treatment",8.0,17.0,6.25,5.0,32
-49.0,"Treatment",18.221,18.0,6.75,18.0,35
-27.0,"Treatment",11.5,7.0,3.75,4.0,2
-56.0,"Treatment",17.602,6.0,3.0,6.0,1
-51.0,"Treatment",10.0,18.0,6.5,21.0,34
-39.0,"Treatment",9.486,16.0,4.75,8.0,21
-48.0,"Treatment",11.073,7.0,5.5,5.0,13
-52.0,"Treatment",13.5,7.0,5.75,5.0,22
-55.0,"Treatment",6.333,3.0,6.25,2.0,26
-53.0,"Treatment",12.5,6.0,5.5,6.0,19
-34.0,"Treatment",4.0,20.0,7.0,15.0,36
-62.0,"Treatment",4.8,20.0,6.0,14.0,26
-55.0,"Treatment",9.0,8.0,3.75,3.0,11
-51.0,"Treatment",12.0,4.0,5.0,4.0,15
-43.0,"Treatment",4.0,10.0,4.75,17.0,10
-32.0,"Treatment",7.683,1.0,2.75,0.0,0
-38.0,"Treatment",12.796,4.0,7.0,2.0,35
-51.0,"Treatment",7.646,9.0,6.5,2.0,29
-50.0,"Treatment",3.0,13.0,3.25,16.0,10
-47.0,"Treatment",7.429,4.0,2.75,0.0,3
-37.0,"Treatment",7.6,7.0,5.75,2.0,30
-34.0,"Treatment",12.5,20.0,6.25,21.0,30
-31.0,"Treatment",7.0,13.0,6.75,16.0,32
-57.0,"Treatment",5.2,5.0,5.5,2.0,5
-44.0,"Treatment",5.333,2.0,5.75,6.0,15
-40.0,"Treatment",6.755,11.0,6.75,0.0,25
-58.0,"Treatment",7.0,5.0,5.0,3.0,16
-54.0,"Treatment",6.0,8.0,7.0,7.0,27
-38.0,"Treatment",14.0,2.0,3.75,4.0,3
-50.0,"Treatment",6.429,4.0,5.25,10.0,22
-49.0,"Treatment",8.6,7.0,5.75,0.0,22
-35.0,"Treatment",9.143,18.0,4.75,16.0,15
-43.0,"Treatment",8.0,11.0,3.75,16.0,5
-35.0,"Treatment",4.5,13.0,6.25,18.0,30
-49.0,"Treatment",4.8,9.0,6.25,9.0,26
-49.0,"Treatment",3.5,19.0,7.0,7.0,34
-23.0,"Treatment",5.5,10.0,5.25,2.0,21
-54.0,"Treatment",10.667,1.0,7.0,1.0,24
-47.0,"Treatment",11.203,18.0,6.0,14.0,22
-26.0,"Treatment",10.0,8.0,6.0,7.0,23
-51.0,"Treatment",4.6,9.0,2.5,4.0,7
-40.0,"Treatment",7.67,16.0,3.75,9.0,6
-32.0,"Treatment",15.029,10.0,6.5,5.0,35
-25.0,"Treatment",1.885,12.0,5.75,12.0,23
+"Participant","Male","Age","Education","PainSeverity","Anxiety","PainInterfere","Depression"
+1.0,"Male",68,"Some College or Less","Moderate Pain",9,30.0,15.0
+2.0,"Male",38,"College","Severe Pain",21,38.0,28.0
+3.0,"Male",31,"Post BA","None or Little Pain",10,18.0,8.0
+4.0,"Male",31,"Some College or Less","Severe Pain",21,39.0,28.0
+5.0,"Female",52,"Post BA","Moderate Pain",9,25.0,14.0
+6.0,"Male",58,"Post BA","Moderate Pain",11,26.0,12.0
+7.0,"Male",63,"Some College or Less","Severe Pain",20,37.0,13.0
+8.0,"Male",38,"College","Severe Pain",20,33.0,23.0
+9.0,"Female",44,"Some College or Less","Severe Pain",8,33.0,8.0
+10.0,"Female",54,"Post BA","Moderate Pain",7,21.0,12.0
+11.0,"Male",66,"College","Moderate Pain",8,19.0,9.0
+12.0,"Male",67,"Post BA","Severe Pain",10,39.0,22.0
+13.0,"Female",31,"Some College or Less","None or Little Pain",11,18.0,7.0
+14.0,"Female",37,"College","Moderate Pain",17,38.0,21.0
+15.0,"Female",48,"College","Moderate Pain",9,10.0,14.0
+16.0,"Male",33,"Some College or Less","Severe Pain",13,18.0,20.0
+17.0,"Male",47,"Some College or Less","Moderate Pain",16,28.0,12.0
+18.0,"Female",30,"College","None or Little Pain",7,32.0,15.0
+19.0,"Male",48,"Some College or Less","None or Little Pain",9,18.0,8.0
+20.0,"Female",58,"Some College or Less","Moderate Pain",7,32.0,13.0
+21.0,"Female",51,"Some College or Less","Moderate Pain",10,29.0,9.0
+22.0,"Female",47,"Some College or Less","Moderate Pain",10,28.0,15.0
+23.0,"Female",41,"College","Severe Pain",7,34.0,18.0
+24.0,"Male",31,"Some College or Less","Severe Pain",16,26.0,26.0
+25.0,"Female",52,"College","Moderate Pain",13,33.0,18.0
+26.0,"Female",51,"College","None or Little Pain",15,19.0,15.0
+27.0,"Male",53,"College","Moderate Pain",9,26.0,11.0
+28.0,"Male",65,"Post BA","None or Little Pain",25,24.0,17.0
+29.0,"Female",47,"College","Moderate Pain",16,32.0,14.0
+30.0,"Female",36,"Post BA","None or Little Pain",7,9.0,7.0
+31.0,"Female",46,"College","None or Little Pain",8,25.0,15.0
+32.0,"Male",34,"College","Severe Pain",15,38.0,22.0
+33.0,"Male",61,"Some College or Less","Severe Pain",8,36.0,8.0
+34.0,"Male",47,"Some College or Less","None or Little Pain",7,10.0,18.0
+35.0,"Female",65,"Some College or Less","None or Little Pain",16,32.0,14.0
+36.0,"Female",37,"Post BA","Moderate Pain",15,31.0,27.0
+37.0,"Female",48,"Post BA","Severe Pain",17,37.0,20.0
+38.0,"Female",41,"Post BA","Severe Pain",21,37.0,24.0
+39.0,"Female",41,"College","None or Little Pain",8,6.0,16.0
+40.0,"Male",41,"College","Moderate Pain",18,32.0,21.0
+41.0,"Female",42,"Some College or Less","Severe Pain",11,41.0,16.0
+42.0,"Male",33,"College","Moderate Pain",11,19.0,9.0
+43.0,"Female",72,"Some College or Less","None or Little Pain",9,25.0,9.0
+44.0,"Female",54,"Post BA","None or Little Pain",7,9.0,10.0
+45.0,"Female",54,"Some College or Less","Moderate Pain",9,25.0,14.0
+46.0,"Female",49,"Some College or Less","Moderate Pain",8,31.0,8.0
+47.0,"Female",43,"Some College or Less","Moderate Pain",9,33.0,10.0
+48.0,"Female",40,"Some College or Less","None or Little Pain",10,25.0,16.0
+49.0,"Female",46,"Post BA","Severe Pain",10,39.0,14.0
+50.0,"Male",35,"Post BA","Severe Pain",8,32.0,10.0
+51.0,"Female",44,"Some College or Less","Severe Pain",13,38.0,17.0
+52.0,"Female",41,"Some College or Less","Moderate Pain",8,17.0,7.0
+53.0,"Female",30,"Post BA","Moderate Pain",17,31.0,28.0
+54.0,"Female",31,"Post BA","Moderate Pain",20,11.0,19.0
+55.0,"Male",43,"Some College or Less","Severe Pain",8,31.0,8.0
+56.0,"Female",31,"Some College or Less","Moderate Pain",7,31.0,7.0
+57.0,"Female",45,"Some College or Less","Moderate Pain",7,34.0,13.0
+58.0,"Female",55,"College","None or Little Pain",21,13.0,11.0
+59.0,"Female",50,"Post BA","Severe Pain",14,40.0,10.0
+60.0,"Female",58,"Some College or Less","None or Little Pain",7,26.0,14.0
+61.0,"Female",36,"Post BA","Moderate Pain",12,41.0,9.0
+62.0,"Female",20,"Some College or Less","Severe Pain",7,29.0,8.0
+63.0,"Female",45,"Some College or Less","Moderate Pain",8,28.0,11.0
+64.0,"Female",50,"Some College or Less","None or Little Pain",9,25.0,8.0
+65.0,"Male",32,"Some College or Less","Moderate Pain",19,18.0,11.0
+66.0,"Female",51,"Some College or Less","Moderate Pain",11,38.0,8.0
+67.0,"Male",32,"Some College or Less","Severe Pain",18,35.0,16.0
+68.0,"Male",54,"College","Moderate Pain",12,19.0,12.0
+69.0,"Male",48,"College","Severe Pain",7,19.0,8.0
+70.0,"Male",36,"Some College or Less","Severe Pain",9,33.0,18.0
+71.0,"Female",41,"College","Moderate Pain",11,41.0,24.0
+72.0,"Male",52,"College","Severe Pain",10,32.0,7.0
+73.0,"Male",61,"Some College or Less","Moderate Pain",20,33.0,13.0
+74.0,"Male",38,"Some College or Less","Severe Pain",8,27.0,16.0
+75.0,"Female",38,"Some College or Less","Moderate Pain",8,29.0,25.0
+76.0,"Male",46,"Some College or Less","None or Little Pain",8,22.0,15.0
+77.0,"Male",58,"Post BA","Moderate Pain",8,15.0,7.0
+78.0,"Female",37,"Some College or Less","Severe Pain",13,35.0,19.0
+79.0,"Female",46,"Some College or Less","Moderate Pain",9,40.0,12.0
+80.0,"Male",72,"Some College or Less","Severe Pain",11,29.0,24.0
+81.0,"Female",32,"Post BA","Moderate Pain",23,36.0,27.0
+82.0,"Male",49,"Post BA","Moderate Pain",7,29.0,16.0
+83.0,"Female",46,"Some College or Less","Moderate Pain",17,33.0,11.0
+84.0,"Male",38,"Some College or Less","None or Little Pain",10,6.0,8.0
+85.0,"Male",40,"Some College or Less","Severe Pain",13,34.0,27.0
+86.0,"Female",40,"College","Severe Pain",9,36.0,11.0
+87.0,"Female",53,"Some College or Less","Moderate Pain",15,25.0,12.0
+88.0,"Female",55,"Some College or Less","Moderate Pain",16,35.0,17.0
+89.0,"Female",23,"College","Moderate Pain",8,30.0,9.0
+90.0,"Male",47,"College","None or Little Pain",9,22.0,8.0
+91.0,"Female",49,"Some College or Less","Moderate Pain",21,23.0,28.0
+92.0,"Female",62,"College","Moderate Pain",14,23.0,27.0
+93.0,"Female",50,"College","None or Little Pain",13,10.0,15.0
+94.0,"Female",52,"Some College or Less","Moderate Pain",9,27.0,15.0
+95.0,"Male",26,"College","Severe Pain",23,35.0,24.0
+96.0,"Male",46,"Some College or Less","None or Little Pain",12,35.0,25.0
+97.0,"Male",45,"Post BA","Severe Pain",20,28.0,22.0
+98.0,"Female",70,"Post BA","Severe Pain",11,22.0,9.0
+99.0,"Female",26,"Some College or Less","Moderate Pain",20,21.0,11.0
+100.0,"Female",26,"Post BA","Moderate Pain",8,38.0,17.0
+101.0,"Female",53,"College","Moderate Pain",12,22.0,19.0
+102.0,"Female",52,"Some College or Less","Moderate Pain",10,31.0,18.0
+103.0,"Male",45,"College","None or Little Pain",7,10.0,7.0
+104.0,"Female",43,"Some College or Less","Moderate Pain",9,27.0,15.0
+105.0,"Female",22,"Some College or Less","Moderate Pain",8,22.0,27.0
+106.0,"Female",35,"College","None or Little Pain",12,22.0,14.0
+107.0,"Female",41,"College","Moderate Pain",7,19.0,17.0
+108.0,"Male",48,"College","Moderate Pain",20,34.0,26.0
+109.0,"Female",62,"Some College or Less","Moderate Pain",7,22.0,14.0
+110.0,"Male",53,"Some College or Less","Severe Pain",14,37.0,13.0
+111.0,"Female",46,"Some College or Less","Severe Pain",7,28.0,22.0
+112.0,"Female",59,"College","Severe Pain",8,31.0,10.0
+113.0,"Female",28,"College","Moderate Pain",7,21.0,8.0
+114.0,"Male",31,"Some College or Less","Severe Pain",16,32.0,17.0
+115.0,"Female",46,"Post BA","Moderate Pain",10,28.0,15.0
+116.0,"Female",45,"Some College or Less","Severe Pain",9,31.0,15.0
+117.0,"Male",23,"College","Severe Pain",10,30.0,28.0
+118.0,"Female",38,"Some College or Less","Severe Pain",20,31.0,20.0
+119.0,"Male",36,"College","None or Little Pain",9,33.0,24.0
+120.0,"Male",48,"College","Moderate Pain",13,27.0,13.0
+121.0,"Male",32,"Post BA","Severe Pain",14,35.0,22.0
+122.0,"Male",36,"Some College or Less","Severe Pain",11,29.0,13.0
+123.0,"Male",46,"Some College or Less","Severe Pain",18,39.0,26.0
+124.0,"Male",65,"College","None or Little Pain",11,23.0,15.0
+125.0,"Female",29,"Some College or Less","None or Little Pain",8,20.0,8.0
+126.0,"Female",34,"Some College or Less","None or Little Pain",19,32.0,26.0
+127.0,"Female",42,"Post BA","Moderate Pain",23,31.0,20.0
+128.0,"Female",39,"Some College or Less","Severe Pain",10,38.0,14.0
+129.0,"Female",38,"College","None or Little Pain",7,15.0,10.0
+130.0,"Female",53,"College","Moderate Pain",10,34.0,13.0
+131.0,"Female",43,"College","Severe Pain",10,27.0,13.0
+132.0,"Female",43,"Post BA","Moderate Pain",7,14.0,8.0
+133.0,"Female",36,"Some College or Less","Moderate Pain",22,37.0,20.0
+134.0,"Male",40,"Some College or Less","Severe Pain",9,31.0,20.0
+135.0,"Male",67,"Some College or Less","Severe Pain",14,33.0,20.0
+136.0,"Male",45,"College","Moderate Pain",10,7.0,15.0
+137.0,"Female",28,"Some College or Less","Moderate Pain",11,15.0,13.0
+138.0,"Female",59,"Post BA","None or Little Pain",20,25.0,17.0
+139.0,"Female",33,"Some College or Less","Moderate Pain",12,24.0,16.0
+140.0,"Female",43,"Some College or Less","Severe Pain",12,41.0,10.0
+141.0,"Male",28,"Some College or Less","Moderate Pain",15,16.0,26.0
+142.0,"Male",62,"College","Severe Pain",8,39.0,8.0
+143.0,"Female",30,"College","Severe Pain",7,31.0,9.0
+144.0,"Female",37,"Some College or Less","Moderate Pain",7,12.0,7.0
+145.0,"Male",41,"College","Moderate Pain",7,13.0,7.0
+146.0,"Male",47,"College","Severe Pain",7,21.0,9.0
+147.0,"Male",56,"College","Moderate Pain",11,36.0,14.0
+148.0,"Male",50,"College","Moderate Pain",23,38.0,27.0
+149.0,"Female",57,"Some College or Less","Severe Pain",11,40.0,16.0
+150.0,"Female",51,"College","None or Little Pain",7,19.0,8.0
+151.0,"Female",28,"College","Moderate Pain",22,35.0,27.0
+152.0,"Male",45,"Post BA","Moderate Pain",10,26.0,8.0
+153.0,"Female",34,"Some College or Less","Severe Pain",11,33.0,15.0
+154.0,"Female",44,"College","Moderate Pain",7,28.0,8.0
+155.0,"Female",37,"College","Moderate Pain",9,28.0,15.0
+156.0,"Female",43,"College","Moderate Pain",22,17.0,17.0
+157.0,"Female",38,"Some College or Less","Moderate Pain",7,18.0,14.0
+158.0,"Male",56,"Some College or Less","Severe Pain",9,35.0,10.0
+159.0,"Male",34,"Some College or Less","Severe Pain",15,33.0,25.0
+160.0,"Female",17,"Post BA","Moderate Pain",9,14.0,7.0
+161.0,"Male",67,"Some College or Less","Moderate Pain",8,29.0,9.0
+162.0,"Male",67,"College","Moderate Pain",13,11.0,15.0
+163.0,"Female",46,"Some College or Less","None or Little Pain",11,23.0,8.0
+164.0,"Male",48,"Post BA","Severe Pain",9,35.0,27.0
+165.0,"Female",46,"Post BA","None or Little Pain",15,32.0,15.0
+166.0,"Female",43,"College","None or Little Pain",7,27.0,7.0
+167.0,"Male",41,"Some College or Less","Moderate Pain",15,26.0,22.0
+168.0,"Female",41,"College","None or Little Pain",9,15.0,8.0
+169.0,"Female",51,"College","Severe Pain",7,11.0,7.0
+170.0,"Female",49,"College","Moderate Pain",7,26.0,17.0
+171.0,"Female",26,"College","Moderate Pain",10,29.0,12.0
+172.0,"Female",38,"Post BA","None or Little Pain",8,7.0,9.0
+173.0,"Male",48,"Post BA","Severe Pain",15,35.0,24.0
+174.0,"Female",19,"Post BA","Moderate Pain",19,25.0,22.0
+175.0,"Female",64,"Some College or Less","None or Little Pain",10,15.0,8.0
+176.0,"Male",65,"Post BA","Moderate Pain",7,28.0,19.0
+177.0,"Female",46,"College","Moderate Pain",10,30.0,12.0
+178.0,"Male",44,"College","None or Little Pain",12,30.0,16.0
+179.0,"Female",53,"College","Severe Pain",19,41.0,28.0
+180.0,"Male",59,"College","Moderate Pain",8,31.0,12.0
+181.0,"Male",60,"Some College or Less","Moderate Pain",18,29.0,21.0
+182.0,"Female",28,"Post BA","None or Little Pain",9,17.0,7.0
+183.0,"Male",45,"Some College or Less","Moderate Pain",7,17.0,10.0
+184.0,"Female",55,"College","Moderate Pain",10,21.0,9.0
+185.0,"Male",49,"Some College or Less","Severe Pain",9,29.0,27.0
+186.0,"Male",53,"Post BA","None or Little Pain",7,23.0,13.0
+187.0,"Female",37,"College","Moderate Pain",10,13.0,8.0
+188.0,"Female",51,"Some College or Less","Moderate Pain",14,32.0,19.0
+189.0,"Female",55,"Some College or Less","Moderate Pain",9,21.0,8.0
+190.0,"Female",63,"Some College or Less","None or Little Pain",12,24.0,9.0
+191.0,"Male",48,"Post BA","None or Little Pain",7,11.0,7.0
+192.0,"Female",58,"Some College or Less","Severe Pain",8,29.0,9.0
+193.0,"Male",57,"Some College or Less","Severe Pain",12,22.0,13.0
+194.0,"Male",49,"Post BA","Severe Pain",8,32.0,12.0
+195.0,"Male",32,"Some College or Less","Severe Pain",13,28.0,25.0
+196.0,"Male",51,"Post BA","Moderate Pain",7,31.0,14.0
+197.0,"Male",78,"Some College or Less","Moderate Pain",13,29.0,27.0
+198.0,"Male",56,"College","Moderate Pain",11,36.0,10.0
+199.0,"Female",46,"Some College or Less","Moderate Pain",7,32.0,12.0
+200.0,"Female",40,"Post BA","Moderate Pain",16,35.0,22.0
+201.0,"Female",55,"Post BA","None or Little Pain",8,17.0,10.0
+202.0,"Male",30,"Some College or Less","Moderate Pain",12,35.0,21.0
+203.0,"Female",45,"Some College or Less","Severe Pain",8,37.0,10.0
+204.0,"Female",54,"Some College or Less","Moderate Pain",11,16.0,8.0
+205.0,"Female",39,"College","Moderate Pain",10,32.0,21.0
+206.0,"Male",55,"Some College or Less","Moderate Pain",7,16.0,8.0
+207.0,"Female",42,"Post BA","None or Little Pain",7,19.0,10.0
+208.0,"Male",57,"College","Severe Pain",12,40.0,9.0
+209.0,"Female",42,"Some College or Less","Severe Pain",17,22.0,19.0
+210.0,"Female",37,"Some College or Less","Severe Pain",14,33.0,13.0
+211.0,"Male",47,"Some College or Less","Moderate Pain",20,29.0,22.0
+212.0,"Male",44,"College","Severe Pain",11,41.0,7.0
+213.0,"Female",34,"Some College or Less","Severe Pain",14,40.0,24.0
+214.0,"Female",31,"Some College or Less","Severe Pain",23,38.0,28.0
+215.0,"Male",58,"Some College or Less","Severe Pain",11,33.0,10.0
+216.0,"Female",53,"Some College or Less","Moderate Pain",7,9.0,7.0
+217.0,"Female",33,"Some College or Less","Moderate Pain",12,28.0,21.0
+218.0,"Male",56,"College","Severe Pain",19,27.0,19.0
+219.0,"Female",19,"Some College or Less","Severe Pain",9,39.0,15.0
+220.0,"Male",61,"Some College or Less","Severe Pain",10,39.0,16.0
+221.0,"Female",42,"College","None or Little Pain",7,39.0,8.0
+222.0,"Male",40,"Post BA","Moderate Pain",9,36.0,7.0
+223.0,"Male",42,"Some College or Less","Moderate Pain",24,28.0,22.0
+224.0,"Female",36,"Post BA","Moderate Pain",7,27.0,10.0
+225.0,"Female",58,"Some College or Less","Severe Pain",9,32.0,8.0
+226.0,"Female",40,"Some College or Less","Severe Pain",7,39.0,12.0
+227.0,"Male",68,"College","Severe Pain",8,38.0,14.0
+228.0,"Female",34,"Post BA","Severe Pain",9,33.0,14.0
+229.0,"Female",49,"Some College or Less","Moderate Pain",9,36.0,22.0
+230.0,"Female",42,"Some College or Less","Severe Pain",23,39.0,27.0
+231.0,"Male",41,"College","None or Little Pain",10,15.0,20.0
+232.0,"Female",32,"College","None or Little Pain",7,13.0,12.0
+233.0,"Female",50,"College","Moderate Pain",14,25.0,19.0
+234.0,"Female",31,"Some College or Less","Moderate Pain",10,41.0,18.0
+235.0,"Female",34,"College","Moderate Pain",16,28.0,14.0
+236.0,"Male",47,"Some College or Less","Severe Pain",24,33.0,23.0
+237.0,"Female",41,"Some College or Less","Moderate Pain",9,21.0,9.0
+238.0,"Female",33,"Some College or Less","Severe Pain",9,30.0,8.0
+239.0,"Female",46,"Post BA","Moderate Pain",24,38.0,25.0
+240.0,"Female",25,"Some College or Less","Moderate Pain",15,18.0,9.0
+241.0,"Male",30,"College","None or Little Pain",7,10.0,7.0
+242.0,"Male",41,"Some College or Less","Severe Pain",12,41.0,13.0
+243.0,"Male",48,"Some College or Less","Severe Pain",26,35.0,28.0
+244.0,"Male",42,"Post BA","Severe Pain",7,26.0,26.0
+245.0,"Female",46,"Some College or Less","Moderate Pain",11,30.0,10.0
+246.0,"Female",51,"College","Moderate Pain",8,35.0,15.0
+247.0,"Female",56,"College","Severe Pain",15,34.0,22.0
+248.0,"Female",47,"College","Moderate Pain",9,28.0,8.0
+249.0,"Female",37,"Some College or Less","Moderate Pain",8,26.0,9.0
+250.0,"Female",30,"Post BA","Moderate Pain",12,27.0,28.0
+251.0,"Female",38,"College","Moderate Pain",13,14.0,10.0
+252.0,"Female",49,"College","None or Little Pain",8,17.0,15.0
+253.0,"Female",42,"College","Moderate Pain",10,17.0,7.0
+254.0,"Male",58,"Post BA","Severe Pain",9,35.0,7.0
+255.0,"Male",47,"Some College or Less","Severe Pain",18,33.0,12.0
+256.0,"Female",55,"Some College or Less","Moderate Pain",8,10.0,8.0
+257.0,"Male",54,"College","Moderate Pain",16,16.0,19.0
+258.0,"Female",58,"College","Severe Pain",7,25.0,9.0
+259.0,"Female",49,"Post BA","None or Little Pain",7,18.0,14.0
+260.0,"Female",57,"Post BA","Moderate Pain",14,36.0,13.0
+261.0,"Male",46,"Some College or Less","Moderate Pain",8,19.0,7.0
+262.0,"Female",40,"Some College or Less","Moderate Pain",9,23.0,9.0
+263.0,"Female",29,"College","None or Little Pain",9,13.0,7.0
+264.0,"Female",53,"College","Moderate Pain",10,34.0,12.0
+265.0,"Female",41,"Some College or Less","Moderate Pain",15,7.0,13.0
+266.0,"Female",31,"Some College or Less","None or Little Pain",8,18.0,14.0
+267.0,"Male",48,"Post BA","Moderate Pain",11,24.0,11.0
+268.0,"Male",43,"College","Severe Pain",7,37.0,10.0
+269.0,"Female",34,"College","None or Little Pain",12,25.0,11.0
+270.0,"Male",66,"College","Severe Pain",7,30.0,21.0
+271.0,"Female",40,"College","Moderate Pain",15,33.0,9.0
+272.0,"Female",38,"Some College or Less","Moderate Pain",8,12.0,8.0
+273.0,"Male",49,"Post BA","Severe Pain",11,28.0,21.0
+274.0,"Female",41,"College","Severe Pain",13,30.0,24.0
+275.0,"Male",63,"Some College or Less","Severe Pain",7,37.0,13.0
+276.0,"Female",42,"Some College or Less","Moderate Pain",8,30.0,8.0
+277.0,"Female",58,"College","Moderate Pain",19,30.0,21.0
+278.0,"Female",52,"College","Moderate Pain",12,28.0,20.0
+279.0,"Male",51,"College","Moderate Pain",14,24.0,9.0
+280.0,"Female",58,"College","None or Little Pain",7,25.0,9.0
+281.0,"Female",69,"Post BA","Severe Pain",8,33.0,15.0
+282.0,"Female",41,"College","Severe Pain",11,31.0,20.0
+283.0,"Female",37,"Some College or Less","Severe Pain",11,34.0,11.0
+284.0,"Male",61,"Some College or Less","Severe Pain",15,31.0,17.0
+285.0,"Female",47,"College","Moderate Pain",12,39.0,22.0
+286.0,"Male",45,"Some College or Less","Severe Pain",8,31.0,16.0
+287.0,"Male",45,"Post BA","None or Little Pain",9,26.0,7.0
+288.0,"Female",36,"Some College or Less","Severe Pain",8,29.0,7.0
+289.0,"Female",47,"Some College or Less","Severe Pain",7,32.0,8.0
+290.0,"Male",57,"Post BA","Moderate Pain",9,38.0,14.0
+291.0,"Male",60,"College","None or Little Pain",9,32.0,10.0
+292.0,"Female",50,"Post BA","Severe Pain",14,31.0,18.0
+293.0,"Female",34,"Some College or Less","Severe Pain",8,31.0,7.0
+294.0,"Male",36,"Some College or Less","None or Little Pain",10,22.0,10.0
+295.0,"Female",20,"Some College or Less","Severe Pain",9,36.0,22.0
+296.0,"Male",74,"College","Moderate Pain",7,12.0,7.0
+297.0,"Male",75,"Some College or Less","Moderate Pain",12,32.0,21.0
+298.0,"Female",50,"Post BA","Moderate Pain",7,30.0,10.0
+299.0,"Male",61,"College","None or Little Pain",10,8.0,8.0
+300.0,"Female",53,"Some College or Less","Severe Pain",12,38.0,13.0
