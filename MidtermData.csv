@@ -1,14 +1,14 @@
 participant,ethnicity,numtextchecks,numtextssent,typeoftexter,inclass,inreligserv,ondate,onphone,appropriatesum
-1,White,23,1 to 25,Typical texter,1,2,5,4,12
-2,White,10,1 to 25,Typical texter,2,1,5,4,12
-3,Asian,7,1 to 25,Typical texter,1,2,5,3,11
+1,White,23,1 to 25,Typical texter,2,2,5,5,14
+2,White,10,1 to 25,Typical texter,2,2,5,5,14
+3,Asian,7,1 to 25,Typical texter,2,2,5,5,14
 4,White,16,100+,Heavy texter,3,2,4,4,13
 5,White,9,26 to 50,Typical texter,4,2,4,5,15
-6,Asian,10,26 to 50,Typical texter,3,5,5,1,14
+6,Asian,10,26 to 50,Typical texter,3,5,5,5,18
 7,White,4,51 to 100,Heavy texter,2,1,4,4,11
 8,White,20,100+,Heavy texter,4,2,4,3,13
 9,White,12,300+,Heavy texter,3,5,5,3,16
-10,White,8,1 to 25,Typical texter,4,2,5,4,15
+10,White,8,1 to 25,Typical texter,4,4,5,4,17
 11,White,8,100+,Heavy texter,4,1,4,5,14
 12,White,2,1 to 25,Typical texter,5,1,5,2,13
 13,Asian,4,26 to 50,Typical texter,3,2,5,2,12
@@ -148,4 +148,5 @@ participant,ethnicity,numtextchecks,numtextssent,typeoftexter,inclass,inreligser
 147,Black,6,51 to 100,Heavy texter,1,1,4,2,8
 148,Hispanic,1,26 to 50,Typical texter,4,2,4,3,13
 149,White,15,51 to 100,Heavy texter,4,1,4,4,13
+
 150,White,10,200+,Heavy texter,3,1,5,3,12
