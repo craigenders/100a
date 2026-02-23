@@ -1,0 +1,501 @@
+"Participant","Gender","Education","Age","AgeTryCigs","AgeTryAlcohol","SmokingDays"
+1,"Female","College",12,21,13,4
+2,"Male","College",27,14,13,4
+3,"Female","High School or Less",34,28,24,6
+4,"Male","High School or Less",13,13,12,9
+5,"Male","College",26,18,10,4
+6,"Male","High School or Less",62,17,18,9
+7,"Female","College",22,16,18,7
+8,"Female","High School or Less",26,19,17,6
+9,"Female","High School or Less",65,18,17,8
+10,"Female","High School or Less",44,14,30,6
+11,"Male","High School or Less",31,14,25,5
+12,"Female","High School or Less",34,16,17,10
+13,"Male","College",32,21,18,5
+14,"Female","High School or Less",39,16,15,7
+15,"Male","High School or Less",63,14,10,7
+16,"Female","High School or Less",85,25,19,6
+17,"Female","High School or Less",45,24,18,8
+18,"Female","College",14,9,12,5
+19,"Male","College",23,14,19,3
+20,"Female","High School or Less",26,17,14,15
+21,"Female","College",39,16,25,2
+22,"Male","College",17,13,16,9
+23,"Male","High School or Less",19,15,13,7
+24,"Female","High School or Less",51,17,17,7
+25,"Female","College",14,24,18,2
+26,"Male","High School or Less",17,12,12,7
+27,"Female","High School or Less",13,21,11,6
+28,"Male","High School or Less",14,17,14,6
+29,"Female","College",25,19,21,3
+30,"Male","College",25,20,20,6
+31,"Male","College",25,16,18,5
+32,"Male","College",34,17,16,4
+33,"Male","High School or Less",49,14,14,21
+34,"Male","High School or Less",28,22,22,4
+35,"Female","College",36,26,18,11
+36,"Male","College",46,30,18,3
+37,"Female","High School or Less",25,16,16,7
+38,"Male","High School or Less",18,19,5,10
+39,"Male","High School or Less",24,17,15,7
+40,"Female","High School or Less",18,15,18,8
+41,"Female","College",51,18,18,7
+42,"Female","High School or Less",25,21,19,4
+43,"Female","High School or Less",18,12,14,8
+44,"Male","High School or Less",13,21,17,5
+45,"Female","High School or Less",22,18,15,6
+46,"Male","High School or Less",20,19,15,6
+47,"Female","College",40,21,18,5
+48,"Male","High School or Less",38,13,17,14
+49,"Female","High School or Less",16,18,15,6
+50,"Male","High School or Less",17,15,13,6
+51,"Male","High School or Less",16,8,15,8
+52,"Male","College",23,19,10,4
+53,"Female","High School or Less",72,14,21,14
+54,"Male","High School or Less",35,21,21,5
+55,"Male","High School or Less",52,13,16,18
+56,"Female","College",31,16,15,5
+57,"Female","High School or Less",45,20,25,5
+58,"Male","College",67,18,15,9
+59,"Male","High School or Less",27,17,12,6
+60,"Male","College",34,11,15,5
+61,"Female","College",17,13,18,8
+62,"Male","College",20,13,15,4
+63,"Female","High School or Less",77,21,30,8
+64,"Female","College",68,19,16,8
+65,"Male","College",15,13,11,5
+66,"Female","High School or Less",12,20,17,5
+67,"Female","High School or Less",34,29,19,4
+68,"Male","High School or Less",20,16,13,7
+69,"Female","High School or Less",37,17,17,8
+70,"Male","High School or Less",34,16,17,6
+71,"Female","High School or Less",24,22,16,14
+72,"Female","High School or Less",21,9,17,12
+73,"Female","High School or Less",30,21,17,5
+74,"Male","College",12,13,16,6
+75,"Female","High School or Less",30,21,19,4
+76,"Male","High School or Less",19,12,13,7
+77,"Female","College",58,21,17,8
+78,"Female","High School or Less",15,10,13,7
+79,"Male","College",13,20,13,3
+80,"Female","High School or Less",47,19,24,5
+81,"Male","College",16,16,7,6
+82,"Female","College",12,14,12,8
+83,"Female","High School or Less",25,25,21,3
+84,"Female","High School or Less",59,22,20,5
+85,"Male","High School or Less",16,4,13,12
+86,"Female","High School or Less",19,16,12,6
+87,"Female","High School or Less",14,10,10,16
+88,"Male","College",47,17,16,10
+89,"Female","College",24,15,15,9
+90,"Female","High School or Less",19,16,9,9
+91,"Female","High School or Less",56,21,22,12
+92,"Male","High School or Less",32,17,18,6
+93,"Female","High School or Less",28,20,17,7
+94,"Male","High School or Less",22,16,15,15
+95,"Female","College",34,22,21,1
+96,"Male","High School or Less",18,14,14,7
+97,"Female","High School or Less",39,19,18,8
+98,"Male","College",19,16,16,4
+99,"Female","High School or Less",72,31,22,5
+100,"Female","High School or Less",26,17,21,8
+101,"Female","High School or Less",18,14,15,6
+102,"Female","High School or Less",66,22,17,5
+103,"Male","High School or Less",28,16,16,7
+104,"Female","College",28,18,16,6
+105,"Male","College",34,16,16,16
+106,"Female","College",16,19,15,4
+107,"Female","College",50,19,17,3
+108,"Female","College",30,25,19,1
+109,"Male","High School or Less",12,22,9,10
+110,"Female","High School or Less",14,15,25,6
+111,"Male","High School or Less",19,13,7,9
+112,"Male","High School or Less",17,20,11,7
+113,"Female","High School or Less",19,21,21,4
+114,"Male","High School or Less",26,20,16,10
+115,"Male","High School or Less",61,17,24,14
+116,"Female","College",28,16,18,4
+117,"Female","College",15,24,22,5
+118,"Female","High School or Less",77,17,20,7
+119,"Male","High School or Less",19,25,14,5
+120,"Male","College",35,17,14,4
+121,"Male","College",47,19,16,3
+122,"Female","College",32,19,15,5
+123,"Male","College",21,13,16,7
+124,"Female","High School or Less",16,16,15,7
+125,"Female","College",68,15,19,11
+126,"Female","College",23,16,14,11
+127,"Female","High School or Less",34,24,21,7
+128,"Male","High School or Less",64,14,15,17
+129,"Female","High School or Less",56,11,21,9
+130,"Male","High School or Less",13,10,12,9
+131,"Female","High School or Less",56,15,24,12
+132,"Female","High School or Less",13,15,13,9
+133,"Female","High School or Less",62,22,19,5
+134,"Female","College",42,17,12,6
+135,"Male","High School or Less",32,25,14,5
+136,"Female","High School or Less",77,9,20,7
+137,"Male","High School or Less",33,18,15,10
+138,"Male","College",62,19,17,10
+139,"Male","High School or Less",22,16,18,6
+140,"Male","High School or Less",77,15,20,8
+141,"Female","High School or Less",20,12,16,13
+142,"Female","High School or Less",34,17,14,10
+143,"Female","High School or Less",13,11,17,11
+144,"Female","College",17,10,12,5
+145,"Male","College",46,15,15,7
+146,"Male","High School or Less",48,16,18,11
+147,"Female","High School or Less",16,12,19,6
+148,"Male","High School or Less",15,12,13,11
+149,"Female","College",12,10,17,4
+150,"Female","High School or Less",27,18,11,13
+151,"Male","High School or Less",57,15,15,8
+152,"Male","High School or Less",29,16,16,10
+153,"Female","College",33,18,12,9
+154,"Female","College",52,20,18,2
+155,"Male","High School or Less",16,15,15,11
+156,"Female","High School or Less",17,12,14,7
+157,"Female","College",52,19,17,5
+158,"Female","High School or Less",17,17,18,7
+159,"Female","High School or Less",63,14,14,8
+160,"Female","College",30,15,18,5
+161,"Female","High School or Less",21,14,16,11
+162,"Female","College",47,23,16,5
+163,"Female","College",48,17,16,7
+164,"Female","High School or Less",15,9,21,7
+165,"Female","College",29,19,17,13
+166,"Female","College",50,21,18,3
+167,"Male","College",26,19,21,3
+168,"Male","High School or Less",85,14,12,11
+169,"Female","College",21,11,17,5
+170,"Male","High School or Less",36,18,15,9
+171,"Female","High School or Less",45,16,20,11
+172,"Female","High School or Less",37,15,16,10
+173,"Male","High School or Less",68,20,21,4
+174,"Female","High School or Less",77,25,21,4
+175,"Female","College",34,31,18,1
+176,"Male","High School or Less",51,13,14,6
+177,"Male","High School or Less",49,18,16,7
+178,"Female","College",25,20,18,4
+179,"Female","High School or Less",30,13,16,7
+180,"Female","College",17,22,16,4
+181,"Female","College",24,15,13,5
+182,"Female","High School or Less",50,30,18,3
+183,"Female","College",33,17,25,4
+184,"Female","College",32,24,19,5
+185,"Female","High School or Less",38,16,18,8
+186,"Female","High School or Less",27,14,22,7
+187,"Female","High School or Less",19,16,15,6
+188,"Male","High School or Less",16,21,12,8
+189,"Male","College",13,10,18,8
+190,"Female","High School or Less",22,13,16,8
+191,"Female","High School or Less",15,14,11,11
+192,"Female","High School or Less",18,25,17,6
+193,"Male","High School or Less",19,16,16,6
+194,"Female","High School or Less",23,17,15,6
+195,"Male","High School or Less",27,23,21,4
+196,"Female","High School or Less",37,23,15,5
+197,"Female","High School or Less",25,23,20,6
+198,"Female","High School or Less",17,29,23,3
+199,"Male","High School or Less",12,16,19,6
+200,"Female","High School or Less",57,18,44,7
+201,"Male","High School or Less",27,26,15,5
+202,"Female","College",12,10,10,6
+203,"Female","High School or Less",15,19,11,7
+204,"Male","High School or Less",13,13,18,13
+205,"Male","College",23,17,15,6
+206,"Female","High School or Less",18,18,17,5
+207,"Male","High School or Less",47,15,15,14
+208,"Female","High School or Less",14,26,19,5
+209,"Female","High School or Less",72,13,27,11
+210,"Male","High School or Less",23,22,17,6
+211,"Female","High School or Less",15,21,15,6
+212,"Male","High School or Less",24,21,18,5
+213,"Female","High School or Less",18,15,18,13
+214,"Female","College",14,16,14,5
+215,"Female","High School or Less",30,14,19,8
+216,"Male","High School or Less",13,22,12,14
+217,"Male","High School or Less",22,21,19,5
+218,"Female","High School or Less",13,20,13,5
+219,"Female","High School or Less",30,19,16,10
+220,"Male","College",14,12,11,4
+221,"Male","High School or Less",42,23,16,6
+222,"Female","High School or Less",33,20,20,6
+223,"Female","High School or Less",52,20,20,6
+224,"Male","High School or Less",21,21,10,9
+225,"Female","High School or Less",34,25,23,5
+226,"Female","High School or Less",14,8,13,26
+227,"Female","High School or Less",14,12,15,7
+228,"Female","College",43,19,17,4
+229,"Female","High School or Less",42,17,17,15
+230,"Male","College",19,16,11,5
+231,"Female","High School or Less",26,19,16,6
+232,"Female","College",19,21,16,3
+233,"Male","High School or Less",12,20,20,9
+234,"Male","High School or Less",50,15,11,13
+235,"Female","High School or Less",48,24,30,9
+236,"Female","High School or Less",21,18,13,6
+237,"Male","High School or Less",17,16,16,7
+238,"Male","High School or Less",38,28,13,4
+239,"Female","College",23,17,21,6
+240,"Male","High School or Less",32,23,18,5
+241,"Female","High School or Less",13,12,16,8
+242,"Male","College",35,23,19,4
+243,"Male","High School or Less",13,15,14,10
+244,"Female","High School or Less",22,23,20,5
+245,"Male","High School or Less",47,19,21,7
+246,"Male","College",47,21,20,2
+247,"Male","High School or Less",26,16,16,6
+248,"Female","High School or Less",25,18,24,8
+249,"Female","High School or Less",39,16,11,8
+250,"Female","High School or Less",32,21,26,7
+251,"Female","High School or Less",32,14,19,7
+252,"Male","High School or Less",18,22,19,6
+253,"Male","High School or Less",33,13,17,6
+254,"Male","High School or Less",30,6,17,12
+255,"Male","College",20,19,17,5
+256,"Female","High School or Less",29,24,23,7
+257,"Female","High School or Less",25,19,18,11
+258,"Female","High School or Less",13,15,12,7
+259,"Male","College",22,15,18,4
+260,"Male","High School or Less",40,28,28,5
+261,"Female","High School or Less",30,15,28,6
+262,"Female","High School or Less",28,26,13,7
+263,"Female","College",15,19,15,4
+264,"Female","High School or Less",32,23,15,4
+265,"Male","High School or Less",14,22,17,8
+266,"Male","High School or Less",29,18,15,7
+267,"Female","High School or Less",44,18,18,5
+268,"Female","High School or Less",24,18,23,9
+269,"Male","High School or Less",23,13,10,9
+270,"Male","High School or Less",17,18,16,6
+271,"Male","College",19,29,14,5
+272,"Female","High School or Less",49,20,30,6
+273,"Female","College",38,17,38,3
+274,"Female","High School or Less",12,16,10,15
+275,"Male","College",45,22,12,2
+276,"Male","College",24,21,20,2
+277,"Male","College",23,23,21,18
+278,"Female","College",51,13,13,13
+279,"Female","College",19,13,16,5
+280,"Male","High School or Less",18,17,16,7
+281,"Female","High School or Less",60,16,18,7
+282,"Female","High School or Less",26,15,25,7
+283,"Male","High School or Less",35,12,19,6
+284,"Male","College",32,17,17,9
+285,"Female","College",30,24,16,2
+286,"Male","College",12,10,12,10
+287,"Male","College",22,18,20,3
+288,"Male","High School or Less",16,13,11,7
+289,"Male","College",32,18,22,3
+290,"Female","College",34,18,18,3
+291,"Female","High School or Less",34,10,11,9
+292,"Female","High School or Less",82,19,21,5
+293,"Male","High School or Less",35,16,11,6
+294,"Female","College",28,14,14,4
+295,"Male","High School or Less",19,17,8,11
+296,"Male","High School or Less",18,13,12,9
+297,"Female","College",46,26,22,1
+298,"Male","College",46,15,10,9
+299,"Female","College",20,20,18,8
+300,"Female","College",33,16,18,11
+301,"Female","High School or Less",47,15,14,7
+302,"Female","College",30,14,15,9
+303,"Male","High School or Less",46,16,21,5
+304,"Male","High School or Less",77,17,20,5
+305,"Female","College",65,20,10,3
+306,"Female","College",36,19,23,4
+307,"Female","College",23,19,15,4
+308,"Male","High School or Less",31,13,16,8
+309,"Female","College",29,17,16,3
+310,"Female","College",27,25,13,4
+311,"Female","High School or Less",19,17,13,15
+312,"Male","College",14,11,16,8
+313,"Male","High School or Less",25,19,12,5
+314,"Female","High School or Less",29,20,16,5
+315,"Male","College",24,20,19,4
+316,"Male","College",39,17,20,3
+317,"Male","High School or Less",20,15,16,8
+318,"Male","College",23,17,13,5
+319,"Female","College",27,19,16,6
+320,"Female","College",24,12,23,4
+321,"Female","High School or Less",53,20,32,3
+322,"Male","College",28,15,20,4
+323,"Female","College",43,16,20,3
+324,"Female","High School or Less",35,14,15,6
+325,"Female","College",25,22,16,2
+326,"Female","High School or Less",18,21,16,8
+327,"Female","High School or Less",52,15,16,14
+328,"Male","High School or Less",23,9,12,7
+329,"Female","College",32,22,21,2
+330,"Female","High School or Less",13,17,22,5
+331,"Female","High School or Less",19,19,17,5
+332,"Female","College",21,20,12,4
+333,"Male","High School or Less",18,16,18,11
+334,"Male","College",17,10,15,5
+335,"Female","College",19,19,17,3
+336,"Male","High School or Less",15,15,14,10
+337,"Male","High School or Less",21,21,17,8
+338,"Female","College",43,14,14,21
+339,"Female","College",77,28,22,0
+340,"Male","High School or Less",18,20,17,5
+341,"Male","College",64,20,20,2
+342,"Female","High School or Less",19,18,17,5
+343,"Male","College",26,17,14,6
+344,"Female","High School or Less",46,21,22,13
+345,"Male","College",77,14,10,7
+346,"Female","High School or Less",20,19,17,9
+347,"Female","High School or Less",13,11,15,13
+348,"Female","High School or Less",16,15,15,7
+349,"Male","High School or Less",25,18,14,6
+350,"Female","College",12,14,13,12
+351,"Female","College",49,25,20,3
+352,"Male","College",54,19,17,3
+353,"Female","High School or Less",13,11,19,8
+354,"Female","High School or Less",35,13,16,7
+355,"Male","College",17,15,17,15
+356,"Male","High School or Less",45,17,16,5
+357,"Male","High School or Less",55,21,18,4
+358,"Female","High School or Less",15,11,15,12
+359,"Female","High School or Less",18,21,16,18
+360,"Female","High School or Less",20,17,16,5
+361,"Female","High School or Less",16,14,19,7
+362,"Female","High School or Less",36,8,19,10
+363,"Male","College",26,10,16,6
+364,"Female","High School or Less",18,11,18,7
+365,"Female","College",24,16,18,4
+366,"Female","High School or Less",29,18,18,9
+367,"Male","College",36,24,18,8
+368,"Female","High School or Less",31,14,19,10
+369,"Male","College",30,14,23,3
+370,"Female","High School or Less",82,21,20,15
+371,"Male","High School or Less",51,16,17,10
+372,"Female","High School or Less",24,13,19,6
+373,"Female","High School or Less",48,16,19,6
+374,"Male","High School or Less",25,14,17,8
+375,"Female","College",39,15,16,12
+376,"Male","High School or Less",64,20,21,10
+377,"Male","High School or Less",28,16,10,7
+378,"Female","High School or Less",38,14,25,6
+379,"Male","High School or Less",15,15,12,7
+380,"Male","College",35,17,21,2
+381,"Male","High School or Less",61,15,16,7
+382,"Male","College",38,14,20,6
+383,"Male","College",15,16,17,16
+384,"Female","College",41,16,16,5
+385,"Male","High School or Less",14,19,12,9
+386,"Male","College",34,15,17,5
+387,"Female","College",14,14,13,6
+388,"Female","College",43,23,20,1
+389,"Male","College",23,11,17,6
+390,"Male","High School or Less",20,17,17,8
+391,"Female","College",43,16,30,4
+392,"Female","High School or Less",28,16,16,6
+393,"Female","High School or Less",30,15,16,10
+394,"Female","High School or Less",13,25,14,5
+395,"Female","College",15,24,11,6
+396,"Male","High School or Less",13,18,13,10
+397,"Female","College",39,18,18,3
+398,"Female","College",13,17,15,5
+399,"Male","High School or Less",21,22,13,5
+400,"Female","High School or Less",13,21,16,11
+401,"Male","High School or Less",22,24,17,12
+402,"Female","High School or Less",20,10,18,9
+403,"Female","College",12,16,16,6
+404,"Male","High School or Less",24,13,15,6
+405,"Female","High School or Less",15,18,14,6
+406,"Female","High School or Less",16,15,12,6
+407,"Male","High School or Less",21,19,10,6
+408,"Female","High School or Less",24,22,17,9
+409,"Male","High School or Less",22,21,17,5
+410,"Male","High School or Less",12,19,10,5
+411,"Female","College",21,13,14,15
+412,"Male","College",13,18,9,5
+413,"Male","High School or Less",19,13,15,8
+414,"Female","High School or Less",22,16,15,7
+415,"Female","High School or Less",34,12,16,7
+416,"Male","High School or Less",17,14,12,7
+417,"Male","College",21,18,16,8
+418,"Female","College",20,17,12,3
+419,"Female","College",29,20,16,3
+420,"Male","High School or Less",15,16,9,7
+421,"Female","College",39,18,16,5
+422,"Female","High School or Less",72,12,21,10
+423,"Male","College",15,16,14,4
+424,"Female","High School or Less",42,22,21,4
+425,"Female","High School or Less",13,19,8,7
+426,"Female","College",14,13,13,6
+427,"Male","College",21,12,15,4
+428,"Male","College",63,18,16,8
+429,"Male","High School or Less",15,16,14,6
+430,"Male","College",16,17,11,4
+431,"Male","High School or Less",12,20,19,8
+432,"Female","College",29,16,16,3
+433,"Female","High School or Less",35,14,17,8
+434,"Female","College",19,16,14,3
+435,"Male","High School or Less",68,16,10,7
+436,"Female","College",12,16,17,11
+437,"Male","College",29,15,7,5
+438,"Female","High School or Less",21,16,20,5
+439,"Female","College",15,15,21,12
+440,"Male","High School or Less",15,13,10,8
+441,"Female","College",25,13,13,8
+442,"Female","College",13,15,17,12
+443,"Female","High School or Less",17,17,15,5
+444,"Male","High School or Less",18,16,13,7
+445,"Female","High School or Less",18,24,13,7
+446,"Female","College",22,25,13,3
+447,"Female","High School or Less",72,17,15,6
+448,"Female","High School or Less",13,18,12,8
+449,"Male","College",39,12,15,4
+450,"Female","High School or Less",44,20,18,8
+451,"Male","High School or Less",30,11,16,7
+452,"Male","High School or Less",18,16,10,7
+453,"Male","High School or Less",26,12,13,10
+454,"Female","High School or Less",16,27,11,5
+455,"Female","High School or Less",24,14,15,10
+456,"Female","High School or Less",14,18,14,6
+457,"Female","High School or Less",19,10,16,7
+458,"Female","College",16,12,17,10
+459,"Male","College",25,22,13,3
+460,"Male","High School or Less",27,18,18,5
+461,"Male","High School or Less",24,26,12,6
+462,"Female","College",16,21,15,11
+463,"Female","High School or Less",50,19,17,9
+464,"Female","College",33,12,20,5
+465,"Male","High School or Less",29,18,18,5
+466,"Female","College",18,20,15,6
+467,"Female","College",33,16,27,2
+468,"Female","College",15,14,10,10
+469,"Female","College",14,19,18,6
+470,"Female","High School or Less",12,19,21,17
+471,"Male","High School or Less",21,12,12,8
+472,"Female","College",13,11,11,18
+473,"Female","High School or Less",15,15,17,10
+474,"Male","High School or Less",35,18,19,13
+475,"Male","College",19,17,10,3
+476,"Male","High School or Less",30,19,18,8
+477,"Female","High School or Less",50,15,21,7
+478,"Female","High School or Less",18,5,21,8
+479,"Female","High School or Less",13,7,13,21
+480,"Female","High School or Less",21,23,18,7
+481,"Female","High School or Less",25,22,20,10
+482,"Female","College",18,21,15,10
+483,"Male","College",35,24,22,3
+484,"Male","College",57,19,16,4
+485,"Female","College",72,17,20,4
+486,"Female","High School or Less",23,20,19,7
+487,"Male","High School or Less",18,13,13,8
+488,"Female","High School or Less",39,20,20,9
+489,"Female","High School or Less",24,18,13,14
+490,"Female","High School or Less",14,20,18,5
+491,"Female","College",12,17,13,3
+492,"Male","High School or Less",17,16,16,5
+493,"Male","High School or Less",15,20,14,9
+494,"Male","High School or Less",40,19,16,10
+495,"Male","College",20,18,16,3
+496,"Male","College",22,16,18,3
+497,"Male","College",69,28,28,1
+498,"Male","College",15,21,13,3
+499,"Male","College",19,23,16,4
+500,"Male","College",22,18,17,6
