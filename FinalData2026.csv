@@ -1,4 +1,4 @@
-"Participant","Gender","Education","Age","AgeTryCigs","AgeTryAlcohol","SmokingDays"
+"Participant","Sex","Education","Age","AgeTryCigs","AgeTryAlcohol","SmokingDays"
 1,"Female","College",12,21,13,4
 2,"Male","College",27,14,13,4
 3,"Female","High School or Less",34,28,24,6
